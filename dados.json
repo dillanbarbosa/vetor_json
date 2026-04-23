@@ -1,0 +1,14 @@
+[
+    {"Nome":"José",
+     "idade": 15,
+     "Personalidade":"Forte"
+    }
+    {"Nome":"Anthony",
+     "idade": 16,
+     "Personalidade":"Fofinho"
+    }
+    {"Nome":"Isaque",
+     "idade": 67,
+     "Personalidade":"Sigma"
+    }
+]
