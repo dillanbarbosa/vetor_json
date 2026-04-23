@@ -1,4 +1,4 @@
 function busca_alunos(){
     fetch('dados.jason')
-    .then(response =>)
+    .then(response => response.json)
 }
