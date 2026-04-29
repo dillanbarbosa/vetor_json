@@ -1,14 +1,14 @@
 [
-    {"Nome":"José",
+    {"nome":"José",
      "idade": 15,
-     "Personalidade":"Forte"
+     "personalidade":"Forte"
     },
-    {"Nome":"Anthony",
+    {"nome":"Anthony",
      "idade": 16,
-     "Personalidade":"Fofinho"
+     "personalidade":"Fofinho"
     },
-    {"Nome":"Isaque",
+    {"nome":"Isaque",
      "idade": 67,
-     "Personalidade":"Sigma"
+     "personalidade":"Sigma"
     }
 ]
